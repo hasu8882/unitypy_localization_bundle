@@ -1,0 +1,1 @@
+# unitypy_localization_bundle
